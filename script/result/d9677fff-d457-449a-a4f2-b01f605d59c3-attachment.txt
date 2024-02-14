@@ -1,0 +1,11 @@
+Reading config.properties
+Using Grid
+Open the Chrome Browser
+Enter the url http://www.FB.Com
+Set ITO: 9
+Set ETO: 7
+Maximize the browser
+Facebook - log in or sign up
+XL Data: Akshara
+xl data in test: Akshara
+Close the browser
