@@ -1,0 +1,7 @@
+Generic Path: D:\Python\Selenium\B96AFW\generic
+Config Path D:\Python\Selenium\B96AFW\generic/../config.properties
+XL Path D:\Python\Selenium\B96AFW\generic/../data/input.xlsx
+Reading config.properties
+Using Grid
+Open the Chrome Browser
+Close the browser
