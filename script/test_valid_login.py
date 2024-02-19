@@ -6,8 +6,8 @@ from generic.utility import Excel
 class Test_ValidLogin(BaseTest):
 
     def test_valid_login(self):
-        un=Excel.get_data('./../data/input.xlsx','ValidLogin',2,1)
-        pw=Excel.get_data('./../data/input.xlsx','ValidLogin',2,2)
+        un=Excel.get_data( self.xl_path,'ValidLogin',2,1)
+        pw=Excel.get_data( self.xl_path,'ValidLogin',2,2)
         # 1. enter valid username
         login_page = LoginPage(self.driver)
         login_page.enter_username(un)
